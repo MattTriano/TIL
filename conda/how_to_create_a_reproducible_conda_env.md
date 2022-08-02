@@ -61,6 +61,5 @@ There are few pages I've visited more than `conda`'s [Managing environments](htt
 
 ## Footnotes
 
-* [^0]: nearly never. The only exceptions I can think of are the [`conda-build`](https://docs.conda.io/projects/conda-build/en/latest/install-conda-build.html) and [`conda-smithy`](https://github.com/conda-forge/conda-smithy#installation) packages.
-
-* [^1]: You can also install packages into a non-activated env by using the `--name` flag and specifying the name of the target env.
+[^0]: nearly never. The only exceptions I can think of are the [`conda-build`](https://docs.conda.io/projects/conda-build/en/latest/install-conda-build.html) and [`conda-smithy`](https://github.com/conda-forge/conda-smithy#installation) packages.
+[^1]: You can also install packages into a non-activated env by using the `--name` flag and specifying the name of the target env.
