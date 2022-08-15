@@ -1,0 +1,5 @@
+# Where can I see documentation for LaTeX importables?
+
+LaTeX can produce beautiful, elegant, and maintainable documents, which has made it a standard tool in the workflow of academic researchers, but as it has a very steep learning curve, most academic researchers just use someone else's template, change the content, and hope that it compiles. Up until recently, my own process for adapting LaTeX templates was largely a cylce of guessing, checking, googling through TeX StackExchange posts for piecemeal fixes, and hacking at my `.tex` file until my output was good enough, and then pivoting away from LaTeX to make up for lost time. But I've finally returned to LaTeX enough to justify spending the time to develop proficiency, which means reading documentation. In turn, that means learning where to read that documentation.
+
+To find documentation on LaTeX packages, classes, or other APIs, the authoritative source is [CTAN (the Comprehensive TeX Archive Network)](https://ctan.org/).
